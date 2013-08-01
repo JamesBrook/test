@@ -135,7 +135,7 @@ h1 {
 	background-image: url(images/footer_background.png);
 }
 .footer, .push {
-	height: 58%;
+	height: 58px;
 }
 .bar {
 	height: 30px;
