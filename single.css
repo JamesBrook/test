@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container {
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 700px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: 'Merriweather', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#header  {
+	height: 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 36px;
+	background-color: #CCCCCC;
+}
+.header1 {
+	width: 500px;
+	float: left;
+	color: #999999;
+	font-size: 40px;
+}
+.header2 {
+	width: 400px;
+	float: right;
+	color: #999999;
+	text-align: right;
+	font-size: 18px;
+	padding-top: 22px;
+}
+.bar {
+	height: 8px;
+	background-color: #999999;
+	margin-bottom: 60px;
+}
+#leftContent {
+	width: 660px;
+	height: 400px;
+	float: left;
+}
+#rightContent {
+	width: 330px;
+	float: right;
+	height: 400px;
+	padding-right: 0px;
+}
+.titleBar {
+	height: 32px;
+	background-color: #eeeeee;
+	border-bottom-color: #000000;
+	border-bottom-width: 2px;
+	color: #FFFFFF;
+	font-size: 26px;
+	padding-left: 4px;
+	padding-top: 2px;
+}
